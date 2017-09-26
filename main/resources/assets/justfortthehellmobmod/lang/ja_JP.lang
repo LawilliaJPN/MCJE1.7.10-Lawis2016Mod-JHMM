@@ -1,0 +1,19 @@
+#
+msg.bpblock.txt=有毒ブロックの破壊により、以下のステータス効果が付加されました。
+
+entity.justforthehellmobmod.HellCreeper.name=ヘルクリーパー
+entity.justforthehellmobmod.FlouncingSquid.name=水晶イカ
+entity.justforthehellmobmod.BlackWolf.name=黒オオカミ
+entity.justforthehellmobmod.SquidInkBat.name=イカスミコウモリ
+
+item.eggHellCreeper.name=スポーン ヘルクリーパー
+item.eggFlouncingSquid.name=スポーン 水晶イカ
+item.eggBlackWolf.name=スポーン 黒オオカミ
+
+tile.meBlackWolf.name=黒オオカミ入りのネザーラック
+tile.memeHellCreeper.name=ヘルクリーパー入りのネザーラック
+
+tile.batBlockN.name=コウモリブロック
+tile.bpBlockN.name=有毒ブロック
+tile.lavaBlockN.name=溶岩入りのネザーラック
+tile.tntBlockN.name=TNT入りのネザーラック
